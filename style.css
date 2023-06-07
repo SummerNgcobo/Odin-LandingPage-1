@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;1,100&display=swap');
+
+
+.pic {
+    height: 200x;
+    width: 550px;
+
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+    
+
+}
+
+nav{
+    justify-content: space-between;
+    text-decoration: none;
+    padding: 50px;
+    flex: 1;
+    background-color: navy;    
+}
+
+.navbar{
+    color: white;
+}
+
+
+
+div{
+    padding: 50px;
+}
+
+.button1 {
+    border-radius: 4px;
+    background-color: blue;
+    color: white;
+}
+
+.nblue{
+    background-color: navy;
+    font-size: x-large;
+}
+
+.ape{
+    float:right;
+    text-decoration: none;
+    display: flex;
+    margin: 0 15px;
+    color: white;
+    font-size: large;
+}
+
+.home{
+    font-weight: Bold;
+    text-decoration: none;
+    display: flex;
+    margin: 0 15px;
+    color: white;
+    font-size: x-large;
+}
+
+.info{
+    text-align: center;
+}
+
+.minfo{
+    height:350px;
+    width:400px;
+    padding: 25px;
+    border-radius: 15%;
+    flex-direction: row;
+    
+    
+}
+
+.recom{
+    background-color: grey;
+    font-weight:500;
+    padding-left: 100px;
+    font-style: italic;
+    font-size: x-large;
+    
+}
+
+.button2{
+    border-radius: 4px;
+    float: right;
+}
+
+.p2{
+  width: 450px;
+  height: 300px;
+  
+
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    gap: 52px;
+  }
+
+.box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+  }
+
+.cont {
+    background: blue;
+    font-weight: bold;
+   text-align: center;
+    margin: auto;
+    width: 50%;
+    
+  }
